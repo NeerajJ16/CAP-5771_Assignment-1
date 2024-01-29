@@ -1,13 +1,13 @@
 def question2_1():
-    answer = ['Discrete, Quantitative, Ratio']
+    answer = ['discrete, quantitative, ratio']
     return answer
 
 def question2_2():
-    answer = ['Continuous, Quantitative, ratio']
+    answer = ['continuous, quantitative, ratio']
     return answer
 
 def question2_3():
-    answer = ['continuous, Quantitative, Interval']
+    answer = ['continuous, quantitative, interval']
     return answer
 
 def question2_4():
