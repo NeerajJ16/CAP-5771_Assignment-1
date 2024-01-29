@@ -1,2 +1,3 @@
 # CAP-5771-s24-homework-1
-Homework1 template for CAP-5771, Spring 2024
+Home Work : CAP 5771
+Name : Neeraj Jawahirani
